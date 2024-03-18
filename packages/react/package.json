@@ -7,7 +7,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
-    "build": "tsup src/index.ts --format cjs,esm --dts --minify"
+    "build": "tsup src/index.ts --format cjs,esm --dts --minify",
+    "lint": "eslint src/**/*.ts* --fix"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +16,7 @@
   "devDependencies": {
     "@ignite-ui/tokens": "*",
     "@ignite-ui/ts-config": "*",
+    "@ignite-ui/eslint-config": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.4.2"
   }
