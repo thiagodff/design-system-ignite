@@ -4,7 +4,7 @@ import { Button, ButtonProps } from '@ignite-ui/react'
 
 // config global do button
 const meta = {
-  title: 'Button',
+  title: 'Form/Button',
   component: Button,
 
   args: {
