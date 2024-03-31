@@ -11,6 +11,13 @@ const meta = {
     src: 'https://github.com/thiagodff.png',
     alt: 'Thiago Dornelles',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } satisfies Meta<AvatarProps>
 
 export default meta
