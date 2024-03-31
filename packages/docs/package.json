@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@thiagod-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,7 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
+    "@thiagod-ui/react": "*",
     "@storybook/addon-a11y": "^8.0.5",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
@@ -23,9 +23,9 @@
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.2.25",
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@thiagod-ui/eslint-config": "*",
+    "@thiagod-ui/tokens": "*",
+    "@thiagod-ui/ts-config": "*",
     "@storybook/addon-essentials": "^8.0.2",
     "@storybook/addon-interactions": "^8.0.2",
     "@storybook/addon-links": "^8.0.2",

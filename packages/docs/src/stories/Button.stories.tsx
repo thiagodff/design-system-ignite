@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 
-import { Button, ButtonProps } from '@ignite-ui/react'
+import { Button, ButtonProps } from '@thiagod-ui/react'
 import { ArrowRight } from 'phosphor-react'
 
 // config global do button

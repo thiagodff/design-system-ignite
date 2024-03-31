@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react'
 
-import { Text, TextProps } from '@ignite-ui/react'
+import { Text, TextProps } from '@thiagod-ui/react'
 
 // config global do button
 const meta = {
