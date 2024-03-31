@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "turbo run dev --parallel",
     "build": "turbo run build",
-    "changeset": "changesets",
-    "version-packages": "changesets version",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
     "release": "turbo run build --filter=@thiagod-ui/docs && changeset publish"
   },
   "devDependencies": {
