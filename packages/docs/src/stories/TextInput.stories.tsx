@@ -41,5 +41,6 @@ export const Disabled: Story = {
 export const WithPrefix: Story = {
   args: {
     prefix: 'quin.to/',
+    placeholder: 'your-username',
   },
 }
