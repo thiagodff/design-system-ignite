@@ -29,7 +29,7 @@ const config: StorybookConfig = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/design-system-ignite/'
+      config.base = '/thiagod-ui/'
     }
 
     return config
