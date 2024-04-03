@@ -1,6 +1,6 @@
 # Design System - Thiagod UI
 
-This is a [thiagod-ui design system](https://thiagodff.github.io/design-system-ignite)
+This is a <a href="https://thiagodff.github.io/thiagod-ui/" target="_blank">thiagod-ui design system</a>
 
 ## Technologies Used
 
