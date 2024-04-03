@@ -1,6 +1,6 @@
 # Design System - Thiagod UI
 
-This is a <a href="https://thiagodff.github.io/thiagod-ui/" target="_blank">thiagod-ui design system</a>
+This is a <a href="https://thiagodff.github.io/thiagod-ui/?path=/docs/home--docs" target="__blank">thiagod-ui design system</a>
 
 ## Technologies Used
 
